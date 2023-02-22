@@ -1,5 +1,5 @@
-# Python-games
-# #vitrinedev
+#Python-games
+#vitrinedev
 
 lingguagem         | python
 software           | PyCharm IDE
