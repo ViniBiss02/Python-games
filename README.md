@@ -1,8 +1,8 @@
-#Python-games
-#vitrinedev
+# Nome do meu projeto
 
-lingguagem         | python
-software           | PyCharm IDE
-ajuda do proj      | Alura
-URL do Proj        | https://github.com/ViniBiss02/Python-games
-Acesso ao linkedin | https://www.linkedin.com/in/vinicius-bissoli/
+Rápida descrição do objetivo de fazer esse projeto
+
+| :placard: Vitrine.Dev | #vitrinedev  |
+| -------------  | --- |
+| :sparkles: Nome        | **Python-games**
+| :label: Tecnologias | python (tecnologias utilizadas)
