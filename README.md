@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Jogos em Python
 
 Rápida descrição do objetivo de fazer esse projeto
 
